@@ -6,5 +6,6 @@ I'm a .NET software engineer from Belgium with a focus on .NET technologies.
 
 - [Visual Studio Marketplace](https://marketplace.visualstudio.com/Publishers/TimMaes)
 - [NuGet](https://www.nuget.org/profiles/Tim-Maes)
-- [Medium](https://medium.com/@timmaes)
+
+- [Website/Blog](https://Tim-Maes.github.io)
 - [LinkedIn](https://www.linkedin.com/in/tim-maes-93a82112a/)
