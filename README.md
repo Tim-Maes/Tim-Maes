@@ -1,6 +1,6 @@
 # Hi there, I'm Tim Maes! :wave:
 
-I'm a .NET software engineer from Belgium with a focus on .NET technologies.
+I'm a software engineer from Belgium with a focus on .NET technologies.
 
 ### Profiles
 
