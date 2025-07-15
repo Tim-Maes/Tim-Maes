@@ -4,11 +4,15 @@
 
 </div>
 
-## Socials
+## Find me
+
+[Website](https://tim-maes/com)
 
 [LinkedIn](https://www.linkedin.com/in/tim-maes-93a82112a/)
 
-[Website](https://tim-maes/com)
+[NuGet](https://www.nuget.org/profiles/Tim-Maes)
+
+[VS Marketplace](https://marketplace.visualstudio.com/publishers/TimMaes)
 
 ## Highlighted blogposts
 
