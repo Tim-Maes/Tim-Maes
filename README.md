@@ -8,7 +8,7 @@
 
 ## Find me
 
-[Website](https://tim-maes/com)
+[Website](https://tim-maes.com)
 
 [LinkedIn](https://www.linkedin.com/in/tim-maes-93a82112a/)
 
