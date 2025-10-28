@@ -1,5 +1,7 @@
 ## Highlighted blogposts
 
+**28.10.2025** - [Mastering Facet: Guide to type safe projections](https://medium.com/@timmaes/mastering-facet-a-guide-to-type-safe-projections-in-c-d06f552a99ae)
+
 **13.07.2025** - [Introducing BlazorFrame, an enhanced, secure Blazor iframe component](https://tim-maes.com/blazorframe-enhanced-iframes.html)
 
 **28.04.2024** - [Facets in .NET](https://tim-maes.com/facets-in-dotnet.html)
