@@ -8,7 +8,7 @@
 
 **13.07.2025** - [Introducing BlazorFrame, an enhanced, secure Blazor iframe component](https://tim-maes.com/blog/2025/09/13/blazorframe-enhanced-iframes/)
 
-**28.04.2024** - [Facets in .NET](https://tim-maes.com/blog/2025/09/28/facets-in-dotnet/)
+**28.04.2024** - [Facets in .NET](https://tim-maes.com/blog/2025/09/28/facets-in-dotnet-(2)/)
 
 **25.03.2023** - [Source Generators, the end of T4 Templates?](https://tim-maes.com/blog/2024/02/25/source-generators-vs-t4/)
 
