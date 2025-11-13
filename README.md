@@ -1,5 +1,7 @@
 ## Highlighted blogposts
 
+**10.11.2025** - [Competing with traditional mapper libraries](https://tim-maes.com/blog/2025/11/07/dotnet-mappers-in-2025/)
+
 **04.11.2025** - [Flatten with Facet](https://tim-maes.com/blog/2025/11/04/flatten-with-facet/)
 
 **28.10.2025** - [Mastering Facet: Guide to type safe projections](https://medium.com/@timmaes/mastering-facet-a-guide-to-type-safe-projections-in-c-d06f552a99ae)
